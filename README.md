@@ -20,3 +20,8 @@ I am an IT professional with a strong foundation in system analysis, data compli
 
 ### 📈 Featured Projects & Labs
 *(See pinned repositories below for technical documentation and scripts)*
+
+---
+
+### 📬 Connect with Me
+* 💼 **LinkedIn:** www.linkedin.com/in/kamaljeetsharma
