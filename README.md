@@ -1,6 +1,6 @@
 # Hi, I'm Kamaljeet Sharma 👋
 
-### IT Business Analyst & Security Professional | MS in Information Security | Security+, A+, CC
+### IT Business Analyst & Security Professional | Security Support Specialist| Information Coordinator
 
 I am an IT professional with a strong foundation in system analysis, data compliance, and IT support within the public sector. Currently, I am leveraging my academic background and industry certifications to transition into a dedicated Information Security / Cyber Analyst role.
 
