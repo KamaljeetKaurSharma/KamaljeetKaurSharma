@@ -1,6 +1,6 @@
 # Hi, I'm Kamaljeet Sharma 👋
 
-### IT Business Analyst | Information Security Transition Specialist
+### IT Business Analyst | Information Security Support Specialist | Information System Coordinator
 
 I am an IT professional with a strong foundation in system analysis, data compliance, and IT support within the public sector. Currently, I am leveraging my academic background and industry certifications to transition into a dedicated Information Security / Cyber Analyst role.
 
