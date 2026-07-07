@@ -21,6 +21,15 @@ I am an IT professional with a strong foundation in system analysis, data compli
 ### 📈 Featured Projects & Labs
 *(See pinned repositories below for technical documentation and scripts)*
 
+## 🎓 Experiential Learning & Virtual Internships
+
+I actively collaborate on real-world industry projects through **Riipen**, applying technical frameworks and strategy to solve business problems.
+
+* **Verified Riipen Portfolio:** [View My Project Completions & Reviews Key](YOUR_RIIPEN_PROFILE_URL_HERE)
+
+### Completed Client Projects:
+* **Cybersecurity Awareness Training Plan** (Paladin Consulting LLC) — *5-Star Project Completion*
+* **AI & Machine Learning Infrastructure Strategy** (Event Essentials) — *Industry Case Study*
 ---
 
 ### 📬 Connect with Me
