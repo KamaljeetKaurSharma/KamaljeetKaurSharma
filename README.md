@@ -32,10 +32,14 @@ I actively collaborate on real-world industry projects through **Riipen**, apply
 * This project was developed during a virtual industry project facilitated by the **Climb Hire / Riipen IT Support Internship** program
   
 **AI & Machine Learning Infrastructure Strategy** (Event Essentials) — *Industry Case Study*
-## 📋 Project Overview
-This project was developed during a virtual industry project facilitated by the **Climb Hire / Riipen IT Support & AI Pathways** program. 
+* ## 📋 Project Overview
+* This project was developed during a virtual industry project facilitated by the **Climb Hire / Riipen IT Support & AI Pathways** program. 
 
  **Platform Verification:** You can verify this project milestone and client review on my [Riipen Verified Portfolio](YOUR_RIIPEN_PROFILE_URL_HERE).
+
+ **Online Blood Donation Management** (SDS Techware pvt.Ltd) — *Project Completed - Internship*
+* ## 📋 Project Overview
+* This project was developed during an Internship (Masters in Computor Applications) industry project facilitated by the **Punjab Agricultural University/    Masters in Computor Applications (MCA)** program.
 ---
 
 ### 📬 Connect with Me
