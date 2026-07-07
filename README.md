@@ -20,7 +20,6 @@ I am an IT professional with a strong foundation in system analysis, data compli
 
 ### 📈 Featured Projects & Labs
 *(See pinned repositories below for technical documentation and scripts)*
-
 ## 🎓 Experiential Learning & Virtual Internships
 
 I actively collaborate on real-world industry projects through **Riipen**, applying technical frameworks and strategy to solve business problems.
@@ -28,8 +27,15 @@ I actively collaborate on real-world industry projects through **Riipen**, apply
 * **Verified Riipen Portfolio:** [View My Project Completions & Reviews Key](YOUR_RIIPEN_PROFILE_URL_HERE)
 
 ### Completed Client Projects:
-* **Cybersecurity Awareness Training Plan** (Paladin Consulting LLC) — *5-Star Project Completion*
-* **AI & Machine Learning Infrastructure Strategy** (Event Essentials) — *Industry Case Study*
+**Cybersecurity Awareness Training Plan** (Paladin Consulting LLC) — *5-Star Project Completion*
+* ## 📋 Project Overview
+* This project was developed during a virtual industry project facilitated by the **Climb Hire / Riipen IT Support Internship** program
+  
+**AI & Machine Learning Infrastructure Strategy** (Event Essentials) — *Industry Case Study*
+## 📋 Project Overview
+This project was developed during a virtual industry project facilitated by the **Climb Hire / Riipen IT Support & AI Pathways** program. 
+
+ **Platform Verification:** You can verify this project milestone and client review on my [Riipen Verified Portfolio](YOUR_RIIPEN_PROFILE_URL_HERE).
 ---
 
 ### 📬 Connect with Me
